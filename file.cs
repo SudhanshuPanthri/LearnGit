@@ -3,7 +3,12 @@ public class MyFile()
     Console.WriteLine("Hello World");
 }
 
-public class Test()
+public class MyFile1()
 {
-    Console.WriteLine("Hello !");
+    Console.WriteLine("Hello World 1");
+}
+
+public class MyFile2()
+{
+    Console.WriteLine("Hello World 1");
 }
